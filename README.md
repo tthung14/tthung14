@@ -3,7 +3,6 @@
 ### Welcome to my Github
 - 👋  I'm Hung
 - 😄  I’m interested in writing code!
-- 🌱  I’m currently learning Android, ...
 - ⚡  I love playing football and love to sing, ...
 ### Connect with me:
 - My Facebook: <a href="https://www.facebook.com/tthung14">Trần Hùng</a>
